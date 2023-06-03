@@ -1,0 +1,18 @@
+[
+	{
+		"name": "学籍预警查询",
+		"pic_path": "/pictures/3.png"
+	},
+	
+	{
+		"name": "班级课表查询打印",
+		"pic_path": "/pictures/5.png"
+	},
+	{
+		"name": "考试信息查询",
+		"pic_path": "/pictures/6.png"
+	}, {
+		"name": "结业换证考试查询",
+		"pic_path": "/pictures/7.png"
+	}
+]

@@ -1,2 +1,19 @@
-# jsei_vue
-一个基础Vue和element ui的Vue实训项目
+# jsei_01
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
